@@ -1,0 +1,1 @@
+java -jar loader.jar -import -src ./foc1 -l warn -lp ./wenyu-log-foc -ipaddr fxccsmstgcas1,fxccsmstgcas2,fxccsmstgcas3,fxccsmstgcas4 -auth wenychan:xxxxx

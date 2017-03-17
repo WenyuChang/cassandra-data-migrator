@@ -1,0 +1,1 @@
+java -Xms5g -Xmx6g -jar loader.jar -gen -st csv -src ./test_results_foc/ -l info -lp ./wenyu-log-foc -schema ./schema/ -site FOC -dest ./wenyu-sstable/

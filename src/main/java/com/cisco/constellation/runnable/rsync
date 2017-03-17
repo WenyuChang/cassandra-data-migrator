@@ -1,0 +1,1 @@
+rsync -r -v -e ssh spe1 58.27.60.36:/var/lib/cassandra/import
